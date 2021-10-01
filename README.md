@@ -8,7 +8,6 @@
     <a href="https://hashirshoaeb.github.io/home">lcebaman.github.io/home</a>
     <br />
     <br />
-    <a href="https://hashirshoaeb.github.io">About Me</a>
   </p>
 </p>
 
