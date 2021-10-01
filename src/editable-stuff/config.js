@@ -43,7 +43,7 @@ const about = {
   imageSize: 375,
   message:
     "My name is Luis Cebamanos. I am Telecom and Computing Engineer espicialise in High Performance Computing. I beleive in the Open Source Software community and Science. In my free time I do small research projects and train Mixed Martial Arts.",
-  resume: "https://docs.google.com/document/d/13_PWdhThMr6roxb-UFiJj4YAFOj8e_bv3Vx9UHQdyBQ/edit?usp=sharing",
+  resume: "https://drive.google.com/file/d/1Sw_ICCfZHTeMySiEwID42ZjnKgAxQPqO/view?usp=sharing",
 };
 
 // PROJECTS SECTION
