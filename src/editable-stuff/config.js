@@ -42,7 +42,7 @@ const about = {
   imageLink: require("../editable-stuff/naranjito.png"),
   imageSize: 375,
   message:
-    "My name is Luis Cebamanos. I am Telecom and Computing Engineer spicialised in High Performance Computing. I believe in the Open Source Software community and Science. In my free time, I do small research projects and train Mixed Martial Arts.",
+    "My name is Luis Cebamanos. I am Telecom and Computing Engineer specialised in High Performance Computing. I believe in the Open Source Software community and Science. In my free time, I do small research projects and train Mixed Martial Arts.",
   resume: "https://drive.google.com/file/d/1Sw_ICCfZHTeMySiEwID42ZjnKgAxQPqO/view?usp=sharing",
 };
 
