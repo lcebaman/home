@@ -89,7 +89,6 @@ const skills = {
   heading: "Skills",
   hardSkills: [
     { name: "Python", value: 50 },
-    { name: "Data Structures", value: 85 },
     { name: "C", value: 80 },
     { name: "C++", value: 65 },
     { name: "Fortran", value: 70 },
