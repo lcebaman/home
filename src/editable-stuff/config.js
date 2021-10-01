@@ -123,12 +123,12 @@ const experiences = {
     data: [
 	{
       role: 'HPC Benchmarking & Applications Specialist',// Here Add Company Name
-      companylogo: require('../assets/img/atos.png'),
+      companylogo: require('../assets/img/atos.jpeg'),
       date: 'June 2018 – Present',
     },
     {
       role: 'HPC Applications Consultant',// Here Add Company Name
-      companylogo: require('../assets/img/epcc.png'),
+      companylogo: require('../assets/img/epcc.jpeg'),
       date: 'June 2018 – Present',
     },
     {
