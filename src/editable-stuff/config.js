@@ -117,23 +117,28 @@ const getInTouch = {
 };
 
 const experiences = {
-  show: false,
+  show: true,
   heading: "Experiences",
     data: [
 	{
       role: 'HPC Benchmarking & Applications Specialist',// Here Add Company Name
       companylogo: require('../assets/img/atos.jpeg'),
-      date: 'June 2018 – Present',
+      date: 'October 2020 – Present',
     },
     {
       role: 'HPC Applications Consultant',// Here Add Company Name
       companylogo: require('../assets/img/epcc.jpeg'),
-      date: 'June 2018 – Present',
+      date: 'May 2012 – October 2020',
     },
     {
-      role: 'Front-End Developer',
-      companylogo: require('../assets/img/boeing.png'),
-      date: 'May 2017 – May 2018',
+      role: 'Software Engineer',
+      companylogo: require('../assets/img/inquisitive.jpeg'),
+      date: 'February 2011 – March 2012',
+    },
+    {
+      role: 'HPC Software Support Engineer',
+      companylogo: require('../assets/img/heriot.jpeg'),
+      date: 'February 2009 – December 2010',
     },
   ]
 }
