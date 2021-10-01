@@ -9,7 +9,7 @@ const mainBody = {
   firstName: "Luis",
   middleName: "",
   lastName: "Cebamanos",
-  message: " Passionate about changing the world with technology. ",
+  message: " Passionate about making the world a better place with High Performance Computing. ",
   icons: [
     {
       image: "fa-github",
@@ -42,7 +42,7 @@ const about = {
   imageLink: require("../editable-stuff/naranjito.png"),
   imageSize: 375,
   message:
-    "My name is Hashir Shoaib. I’m a graduate of 2020 from National University of Sciences and Technology at Islamabad with a degree in Computer Engineering. I'm most passionate about giving back to the community, and my goal is to pursue this passion within the field of software engineering. In my free time I like working on open source projects.",
+    "My name is Luis Cebamanos. I am Telecom and Computing Engineer espicialise in High Performance Computing. I beleive in the Open Source Software community and Science. In my free time I do small research projects and train Mixed Martial Arts.",
   resume: "https://docs.google.com/document/d/13_PWdhThMr6roxb-UFiJj4YAFOj8e_bv3Vx9UHQdyBQ/edit?usp=sharing",
 };
 
@@ -88,24 +88,23 @@ const skills = {
   show: true,
   heading: "Skills",
   hardSkills: [
-    { name: "Python", value: 90 },
-    { name: "SQL", value: 75 },
+    { name: "Python", value: 50 },
     { name: "Data Structures", value: 85 },
-    { name: "C/C++", value: 65 },
-    { name: "JavaScript", value: 90 },
-    { name: "React", value: 65 },
-    { name: "HTML/CSS", value: 55 },
-    { name: "C#", value: 80 },
+    { name: "C", value: 80 },
+    { name: "C++", value: 65 },
+    { name: "Fortran", value: 70 },
+    { name: "MPI", value: 80 },
+    { name: "OpenMP", value: 80 },
   ],
   softSkills: [
     { name: "Goal-Oriented", value: 80 },
     { name: "Collaboration", value: 90 },
-    { name: "Positivity", value: 75 },
+    { name: "Positivity", value: 85 },
     { name: "Adaptability", value: 85 },
     { name: "Problem Solving", value: 75 },
     { name: "Empathy", value: 90 },
-    { name: "Organization", value: 70 },
-    { name: "Creativity", value: 90 },
+    { name: "Organisation", value: 65 },
+    { name: "Creativity", value: 70 },
   ],
 };
 
@@ -114,17 +113,22 @@ const getInTouch = {
   show: true,
   heading: "Get In Touch",
   message:
-    "I'm currently looking for full-time Software Engineering or Machine Learning opportunities! If you know of any positions available, if you have any questions, or if you just want to say hi, please feel free to email me at",
+    "I'm always looking for new Software Engineering challenges and mostly in parallel computing! If you have any ideas or just want to say hi. please feel free to email me at",
   email: "luis.cebamanos@gmail.com",
 };
 
 const experiences = {
   show: false,
   heading: "Experiences",
-  data: [
+    data: [
+	{
+      role: 'HPC Benchmarking & Applications Specialist',// Here Add Company Name
+      companylogo: require('../assets/img/atos.png'),
+      date: 'June 2018 – Present',
+    },
     {
-      role: 'Software Engineer',// Here Add Company Name
-      companylogo: require('../assets/img/dell.png'),
+      role: 'HPC Applications Consultant',// Here Add Company Name
+      companylogo: require('../assets/img/epcc.png'),
       date: 'June 2018 – Present',
     },
     {
