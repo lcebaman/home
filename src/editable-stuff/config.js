@@ -120,10 +120,15 @@ const experiences = {
   show: true,
   heading: "Experiences",
     data: [
+      {
+      role: 'HPC Benchmarking Architect',// Here Add Company Name
+      companylogo: require('../assets/img/lenovo.jpeg'),
+      date: 'June 2023 – Present',
+    },
 	{
       role: 'HPC Benchmarking & Applications Specialist',// Here Add Company Name
       companylogo: require('../assets/img/atos.jpeg'),
-      date: 'October 2020 – Present',
+      date: 'October 2020 – May 2023',
     },
     {
       role: 'HPC Applications Consultant',// Here Add Company Name
